@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+    indi.wuyue.framework.starter.SchoolAutoConfiguration
